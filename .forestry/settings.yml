@@ -9,7 +9,7 @@ sections:
   label: README
   read_only: true
 - type: heading
-  label: Blog Post
+  label: Blog
 - type: directory
   path: content/blog
   label: Post
