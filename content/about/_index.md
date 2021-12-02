@@ -1,9 +1,9 @@
 ---
-title: "About"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: About
+description: About me.
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+---
+This page is mostly about Instrumap, the software I make for keygroup creation. Here are a few other things:
+
+* [https://www.youtube.com/channel/UC42cllKK0hqZB0C6bSX4fxg/about](https://www.youtube.com/channel/UC42cllKK0hqZB0C6bSX4fxg/about "My YouTube Channel")
+* [https://www.youtube.com/watch?v=GadKRYo3IZc&list=PLNbqO6fWxWSMuTb5SDDa5Bg7E3flcry0l](https://www.youtube.com/watch?v=GadKRYo3IZc&list=PLNbqO6fWxWSMuTb5SDDa5Bg7E3flcry0l "Instrumap Playlist")
