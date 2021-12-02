@@ -5,9 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: README.md
-  label: README
-  read_only: true
+  path: content/instrumap.md
+  label: Instrumap
+  match: "**/*"
 - type: heading
   label: Blog
 - type: directory
